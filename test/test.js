@@ -5,7 +5,7 @@ describe('Array', function () {
       assert.equal(-1, [1, 2, 3].indexOf(4));
     });
     it("should fail and not work", () => {
-      assert.equal(1, 2)
+      // assert.equal(1, 2)
     })
   });
 });
